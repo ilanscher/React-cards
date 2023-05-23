@@ -59,7 +59,7 @@ function AllMeetupsPage() {
 
     return (
         <section>
-            <h1>All Metups</h1>
+            <h1>All Meetups</h1>
             <MeetupList meetups={loadedMeetups} />
         </section>
     );
